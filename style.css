@@ -1,0 +1,36 @@
+    h1 {
+    color:cadetblue;   
+    font-family: fantasy ;
+    justify-content: space-between;
+    display:flex;
+    flex-wrap:wrap ;
+    font-size: 30px;
+    font-weight: 600;
+    }
+    .h2{
+      font-family:sans-serif;  
+      justify-content: space-between;
+      display:flex;
+      flex-wrap:wrap ;
+
+    }
+    .header{
+        border: 2px solid black  
+    }
+    a:visited{
+        color: rgb(250, 9, 9);
+
+    }
+
+   
+    
+    a:hover{
+        opacity: 40%; 
+    }
+
+    .head{
+        border:2px solid red 
+        border-radius 20px;
+    }
+
+    
